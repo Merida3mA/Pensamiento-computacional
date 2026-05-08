@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Cs3p9E_Vj9lksq9DcBsb">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-4" edge="1" parent="1" source="Hb72gFUAbhQrRCewJGNE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#36393d;fontColor=light-dark(#000000,#000000);" value="Inicio" vertex="1">
+          <mxGeometry height="51" width="120" x="350" y="99" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-8" edge="1" parent="1" source="Hb72gFUAbhQrRCewJGNE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="A,B" vertex="1">
+          <mxGeometry height="70" width="180" x="340" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-11" edge="1" parent="1" source="Hb72gFUAbhQrRCewJGNE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Hb72gFUAbhQrRCewJGNE-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fillStyle=solid;strokeColor=#36393d;gradientColor=none;fontColor=light-dark(#000000,#000000);" value="Suma= A+B" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="9JpCEJKr2X9X7xtovlp_-3" edge="1" parent="1" source="Hb72gFUAbhQrRCewJGNE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9JpCEJKr2X9X7xtovlp_-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb72gFUAbhQrRCewJGNE-12" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Suma" vertex="1">
+          <mxGeometry height="60" width="170" x="310" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="9JpCEJKr2X9X7xtovlp_-2" parent="1" style="shape=tape;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Fin" vertex="1">
+          <mxGeometry height="100" width="120" x="335" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
